@@ -1,5 +1,5 @@
 ### Hi there 👋
-### Hi there 👋
+
 
 #### About me
 
@@ -8,9 +8,9 @@
 - Data Analysis
 
 #### Links
+- [My Blog](https://0x777.cn)
 
 - [Twitter](https://twitter.com/0x7773)
-- [My Blog](https://0x777.cn)
 
 
 #### Github stats
