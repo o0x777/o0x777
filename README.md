@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-
 #### About me
-
 - Security Researcher, malware
 - A botnet
 - Data Analysis
