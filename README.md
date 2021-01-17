@@ -3,7 +3,7 @@
 #### About me
 
 - Security Researcher, malware
-- A botnet
+- Botnet
 - Data Analysis
 - Honeypot
 
